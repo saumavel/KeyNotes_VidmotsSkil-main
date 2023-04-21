@@ -1,0 +1,33 @@
+tjékka að target og out séu ekki fokkt
+
+
+
+Teikna upp allar gagnagrindur til að finna út hvað þarf og hvað má sleppa
+- skoða að nota reglulegar segðir til að lágmarka kóða
+- bæði í controller og sampleholder
+
+Mappa KeyCodes almennilega
+- Tengja transposed NoteNames
+- gera mögulegt að transpónera niður niður
+
+Note Names - breytist með transpose og skala
+
+Sömpl:
+* Compressa sömplin - velja létt og gott format
+* Ef ekki feid búa til styttri sömpl til að hafa default
+( * Prófa að feida út sömplin þegar released (mögulega hafa release time stilli hnapp) )
+
+Import: beil í bili
+
+Bíða með krómatík.. óþarfi í bili fókus á færri hluti betur
+- Svo hægt sé að skipta í Krómatík (gera viðmót - 2 8undir og transpóse 8und upp / niður)
+
+DONE:
+auka nótur svo hægt sé að transponera 8und upp
+moll takki - virkar
+Sameina ská FXML
+laga buttonPressed styleclass til að virka með multiple keys og keyreleased
+Transpose grunn virkni
+Laga klikk hljóð
+Laga Mouse CLicked efsta 8und
+Tengja CSS
